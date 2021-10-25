@@ -1,6 +1,6 @@
 {
   "name": "@dnd-kit/sortable",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "Official sortable preset and sensors for dnd kit",
   "author": "Claudéric Demers",
   "license": "MIT",
